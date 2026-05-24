@@ -183,7 +183,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://raw.githubusercontent.com/Qhingthuth/Dammy-Random-Clone01/main/approval.txt").text
+    r1=requests.get("https://raw.githubusercontent.com/princethuth/Dammy-Clone/main/approval.txt").text
 
     if key1 in r1:
 
